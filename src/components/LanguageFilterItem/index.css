@@ -1,0 +1,21 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.languageFilter-item-container {
+  padding-right: 10px;
+}
+.languageFilter-button {
+  font-size: 16px;
+  font-weight: 600;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 18px 6px 18px;
+}
+.active-languageFilter-button {
+  border-radius: 16px;
+  border: 1px solid #0284c7;
+  color: #0284c7;
+}
